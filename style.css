@@ -61,10 +61,7 @@
     display: table;
     clear:both;
 }
-.img src{
-    background-color: beige;
-    background-size: 700px;
-}
+
 *{
     box-sizing: border-box;
 }
