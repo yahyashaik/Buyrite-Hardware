@@ -238,8 +238,8 @@ img {vertical-align: middle;}
   }
   
   .topnav a:hover {
-    background-color: #ddd;
-    color:black;
+    background-color: black;
+    color:white;
   }
 footer{
   background: whitesmoke;
