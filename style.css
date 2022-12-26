@@ -201,9 +201,9 @@ img {vertical-align: middle;}
   display: table;
   clear:both;
 }
-bg-img {
+.bg-img {
     /* The image used */
-    background-image: url("gf1.gif");
+    background-image: url("08.jpg");
   
     min-height: 380px;
   
@@ -242,7 +242,7 @@ bg-img {
   
   .topnav a:hover {
     background-color: #ddd;
-    color:red;
+    color:burlywood;
   }
 footer{
   background: whitesmoke;
