@@ -79,10 +79,7 @@
     display: table;
     clear:both;
 }
-p{
-    background-color:yellow;
-    background-size: 5px 10px;
-}
+
 
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
