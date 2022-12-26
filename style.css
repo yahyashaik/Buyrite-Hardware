@@ -200,7 +200,7 @@ img {vertical-align: middle;}
 }
 .bg-img {
     /* The image used */
-    background-image: url("08.jpg");
+    background-color:whitesmoke;
   
     min-height: 380px;
   
@@ -239,7 +239,7 @@ img {vertical-align: middle;}
   
   .topnav a:hover {
     background-color: #ddd;
-    color:burlywood;
+    color:black;
   }
 footer{
   background: whitesmoke;
