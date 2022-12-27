@@ -230,7 +230,7 @@ img {vertical-align: middle;}
   /* Navbar links */
   .topnav a {
     float: right;
-    color: #f2f2f2;
+    color: red;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -239,7 +239,7 @@ img {vertical-align: middle;}
   
   .topnav a:hover {
     background-color: black;
-    color:red;
+    color:whitesmoke;
   }
 footer{
   background: whitesmoke;
