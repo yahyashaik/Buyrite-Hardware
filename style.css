@@ -244,12 +244,12 @@ img {vertical-align: middle;}
     color:blue;
   }
 footer{
-  background: whitesmoke;
+  background: aliceblue;
   padding: 90px 0;
 }
  
 .footer-container{
-  max-width: 1300px;
+  max-width: auto;
   margin: auto;
   padding: 0 20px;
   display: flex;
