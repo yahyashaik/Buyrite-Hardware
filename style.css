@@ -313,3 +313,15 @@ flex-wrap: wrap;
     align-content: flex-start;
   }
 }
+#div1{
+    
+    float: left;
+    width: 50%;
+    height: 350px;
+ }    
+ #div2{
+    
+    float: right;
+    width: 50%;
+    height: 350px;
+ }    
